@@ -1,1 +1,1 @@
-# Metal-Detector-Arduino
+# Detector-Arduino
